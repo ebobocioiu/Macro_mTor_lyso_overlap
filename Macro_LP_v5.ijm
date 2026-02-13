@@ -1,5 +1,5 @@
 //Overlap measurement macro for an open three channel stack = red, green, DAPI
-//Ema Bobocioui-Caracas/Jacques Brocard (PLATIM) for Louis Picq/Antoine Marcais (CIRI) @2025
+//Ema Bobocioiu-Caracas/Jacques Brocard (PLATIM) for Louis Picq/Antoine Marcais (CIRI) @2025
 //May also be used for whole image directories using "Process/Batch/Macros"
 
 //Initialization
